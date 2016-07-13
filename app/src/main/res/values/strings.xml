@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Vehicle</string>
+
+    <string-array name="vehicle_type">
+        <item>Economy</item>
+        <item>Intermediate</item>
+        <item>FullSize</item>
+        <item>SUV</item>
+    </string-array>
+
+    <string-array name="pick_drop_time">
+        <item>7 AM</item>
+        <item>8 AM</item>
+        <item>9 AM</item>
+        <item>10 AM</item>
+        <item>12 AM</item>
+        <item>1 PM</item>
+        <item>2 PM</item>
+        <item>3 PM</item>
+        <item>4 PM</item>
+        <item>5 PM</item>
+        <item>6 PM</item>
+    </string-array>
+
+    <string name="name_of_person">Name</string>
+
+    <string name="pickupLocation">Pickup Location</string>
+    <string name="returnLocation">Return Location</string>
+
+    <string name="amount">Total Amount</string>
+
+    <string name="vehicle_type_text">Vehicle Type</string>
+    <string name="pick_up_time">PickUp Time</string>
+    <string name="return_time">Drop Off Time</string>
+    <string name="vehicle_type_hint">[choose yours]</string>
+    <string name="pick_up_type_hint">[choose pickup time]</string>
+    <string name="drop_off_type_hint">[choose drop off time]</string>
+
+</resources>
